@@ -1,0 +1,13 @@
+/home/atila/code/c#/dio/Revisao/obj/Debug/netcoreapp3.1/Revisao.csprojAssemblyReference.cache
+/home/atila/code/c#/dio/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfoInputs.cache
+/home/atila/code/c#/dio/Revisao/obj/Debug/netcoreapp3.1/Revisao.AssemblyInfo.cs
+/home/atila/code/c#/dio/Revisao/obj/Debug/netcoreapp3.1/Revisao.csproj.CoreCompileInputs.cache
+/home/atila/code/c#/dio/Revisao/bin/Debug/netcoreapp3.1/Revisao
+/home/atila/code/c#/dio/Revisao/bin/Debug/netcoreapp3.1/Revisao.deps.json
+/home/atila/code/c#/dio/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.json
+/home/atila/code/c#/dio/Revisao/bin/Debug/netcoreapp3.1/Revisao.runtimeconfig.dev.json
+/home/atila/code/c#/dio/Revisao/bin/Debug/netcoreapp3.1/Revisao.dll
+/home/atila/code/c#/dio/Revisao/bin/Debug/netcoreapp3.1/Revisao.pdb
+/home/atila/code/c#/dio/Revisao/obj/Debug/netcoreapp3.1/Revisao.dll
+/home/atila/code/c#/dio/Revisao/obj/Debug/netcoreapp3.1/Revisao.pdb
+/home/atila/code/c#/dio/Revisao/obj/Debug/netcoreapp3.1/Revisao.genruntimeconfig.cache

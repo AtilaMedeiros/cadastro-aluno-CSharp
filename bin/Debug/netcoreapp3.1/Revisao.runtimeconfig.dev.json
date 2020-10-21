@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/atila/.dotnet/store/|arch|/|tfm|",
+      "/home/atila/.nuget/packages"
+    ]
+  }
+}
