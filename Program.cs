@@ -51,7 +51,21 @@ namespace Revisao
                         break;
 
                     case "3":
-                        //TODO: Calcular média geral
+                        decimal notaTotal = 0;
+                        var alunosTotal = 0;
+
+                        for (int i = 0; i < listaAlunos.Length; i++)
+                        {
+                            if (!string.IsNullOrEmpty(listaAlunos[i].Nome))
+                            {
+                               notaTotal = notaTotal + listaAlunos[i].Nota; 
+                               alunosTotal++;
+                            }
+
+                        }
+
+                        var mediaGeral = notaTotal / alunosTotal;
+                        Console.WriteLine($"MEDIA GERAL: {mediaGeral}");
 
                         break;
 
