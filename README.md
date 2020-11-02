@@ -17,7 +17,7 @@
 
 ## 🔖&nbsp; Sobre
 
-Aplicação desenvolvida em **C#** para cadastra alunos e notas, lista os cadastrados e exibir média geral com intuito de colocar em pratica o que foi aprendido na linguagem.
+Aplicação desenvolvida durante o durso de **C#** para cadastra alunos e notas, lista os cadastrados e exibir média geral com intuito de colocar em pratica o que foi aprendido na linguagem.
 
 
 ---
